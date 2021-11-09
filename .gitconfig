@@ -1,0 +1,11 @@
+[core]
+    autocrlf = false
+    editor = vim
+[user]
+    name = yamashita-kllc
+    email = yamashita@kllc.jp
+[merge]
+    ff = false
+[pull]
+    ff = only
+
